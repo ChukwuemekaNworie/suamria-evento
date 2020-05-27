@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+   
+    font-family: sans-serif;
+    
+}
+
+.aboutus-page{
+    display: flex;
+    box-shadow: 10, 10, 10, 10;
+}
+
+header{
+    background-color:  rgb(1, 11, 201);
+    padding: 5rem;
+    color: white;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    letter-spacing: 5px;
+    box-shadow: 10, 10, 10,0.8px;
+}
+
+header h1{
+    border: 1px solid white;
+    width: 30%;
+    margin-left: 30%;
+    border-bottom: 1px;
+    box-shadow: 10, 10, 10,0.8px;
+
+}
+
+.about-content{
+    max-width: 70%;
+   font-family: sans-serif;
+   margin-left: 15%;
+   margin-top: 40px;
+   /* margin-bottom: 50px; */
+ 
+}
+
+.about-content p{
+    margin: 0 auto;
+    font-family: sans-serif;
+    padding: 5px;
+    align-items: center;
+}
+
+p{
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+
+
