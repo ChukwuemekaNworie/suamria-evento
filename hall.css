@@ -23,7 +23,6 @@ header h2{
     font-weight: bold;
     font-size: 30px;
     margin-left: 40px;
-    text-decoration: underline;
 }
 .flex-container{
     display: flex;

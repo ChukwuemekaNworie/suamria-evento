@@ -12,16 +12,16 @@
 
 .aboutus-page{
     display: flex;
-    box-shadow: 10, 10, 10, 10;
+    /*box-shadow: 10, 10, 10, 10;*/
 }
 
 header{
     background-color:  rgb(1, 11, 201);
-    padding: 5rem;
+    padding: 2rem;
     color: white;
     font-family: Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
-    letter-spacing: 5px;
+    letter-spacing: 3px;
     box-shadow: 10, 10, 10,0.8px;
 }
 
